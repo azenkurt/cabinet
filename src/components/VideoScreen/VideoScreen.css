@@ -1,0 +1,15 @@
+.VideoScreen {
+    position: absolute;
+    left: 200px;
+    top: 0;
+    width: 1000px;
+    height: 700px;
+    background-color: #fff;    
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: 1px solid green;
+    overflow-y: scroll;
+    padding-top: 80px;
+}
