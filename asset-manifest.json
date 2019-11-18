@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/azenkurt/cabinet/static/css/main.e2ed35e6.chunk.css",
+    "main.js": "/azenkurt/cabinet/static/js/main.60cd2c2e.chunk.js",
+    "main.js.map": "/azenkurt/cabinet/static/js/main.60cd2c2e.chunk.js.map",
+    "runtime-main.js": "/azenkurt/cabinet/static/js/runtime-main.c07fd734.js",
+    "runtime-main.js.map": "/azenkurt/cabinet/static/js/runtime-main.c07fd734.js.map",
+    "static/js/2.e3df1397.chunk.js": "/azenkurt/cabinet/static/js/2.e3df1397.chunk.js",
+    "static/js/2.e3df1397.chunk.js.map": "/azenkurt/cabinet/static/js/2.e3df1397.chunk.js.map",
+    "index.html": "/azenkurt/cabinet/index.html",
+    "precache-manifest.2fe9bf16d6cc469bae08e64408ef9b3c.js": "/azenkurt/cabinet/precache-manifest.2fe9bf16d6cc469bae08e64408ef9b3c.js",
+    "service-worker.js": "/azenkurt/cabinet/service-worker.js",
+    "static/css/main.e2ed35e6.chunk.css.map": "/azenkurt/cabinet/static/css/main.e2ed35e6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c07fd734.js",
+    "static/js/2.e3df1397.chunk.js",
+    "static/css/main.e2ed35e6.chunk.css",
+    "static/js/main.60cd2c2e.chunk.js"
+  ]
+}
