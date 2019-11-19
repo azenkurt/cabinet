@@ -7,9 +7,6 @@ class MainScreen extends React.Component {
     render() {
         return (
             <div className = "MainScreen">    
-            <aside>
-            
-            </aside>      
                 <div className = "Authors">
                     <Author name = "q1" />
                     <Author name = "q2" />

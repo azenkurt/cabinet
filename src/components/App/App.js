@@ -3,6 +3,7 @@ import './App.css';
 
 import MainScreen from '../MainScreen';
 import VideoScreen from '../VideoScreen';
+import NPB from '../NPB';
  
 class App extends React.Component {
   constructor ( props ) {
@@ -13,7 +14,7 @@ class App extends React.Component {
     };
   }
   retScreen() {
-      return this.state.showed === "main" ? <MainScreen /> : <VideoScreen />;
+      return this.state.showed === "main" ? <MainScreen /> : <NPB />;
   }
   render(){
     return (
