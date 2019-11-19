@@ -6,6 +6,7 @@ class NPB extends React.Component {
         return (
             <div className = "NPB">
                <p className = "NPB_text">doc0</p>
+               <a href = "./pdf/nrb/1.pdf">asdasd</a>
             </div>
         )
     }
